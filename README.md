@@ -3,9 +3,13 @@
 <p align="center"><a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a></p>
 
 ### Dutch Government
-![](./assets/dutch_gov.png)
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/dutch_gov.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://nullpxl.com/post/how-a-simple-bug-can-be-dangerous/">Image source<a>
@@ -17,9 +21,13 @@
 </table>
 
 ### UK Ministry Of Defence 
-![](./assets/uk_ministry_of_defence.png)
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/uk_ministry_of_defence.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://twitter.com/_justYnot/status/1432654180850626563">Image source<a>
@@ -31,11 +39,14 @@
 </table>
 
 ### De Nederlandsche Bank
-![](./assets/dutch_bank.png)
-
-Notice: Its just a USB stick and not a 1000g gold nugget
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/dutch_bank.png">
+           Notice: Its just a USB stick and not a 1000g gold nugget
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://twitter.com/h1_yusuf/status/1114119249876926464">Image source<a>
@@ -48,9 +59,13 @@ Notice: Its just a USB stick and not a 1000g gold nugget
 
 
 ### Dutch Tax Administration
-![](./assets/dutch_tax_administration.png)
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/dutch_tax_administration.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://twitter.com/rootpentesting/status/1362098621567664134">Image source<a>
@@ -63,11 +78,13 @@ Notice: Its just a USB stick and not a 1000g gold nugget
 
 
 ### KPN
-![](./assets/kpn.png)
-
-Source: https://twitter.com/rootpentesting/status/906068477856931844<br>
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/kpn.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://twitter.com/rootpentesting/status/906068477856931844">Image source<a>
@@ -79,9 +96,13 @@ Source: https://twitter.com/rootpentesting/status/906068477856931844<br>
 </table>
 
 ### Redbull
-![](./assets/redbull.png)
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/redbull.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://twitter.com/locs3c/status/1453367388251037698">Image source<a>
@@ -93,9 +114,13 @@ Source: https://twitter.com/rootpentesting/status/906068477856931844<br>
 </table>
 
 ### Yahoo
-![](./assets/yahoo.png)
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/yahoo.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://twitter.com/theCyberGuy0/status/1479757264806371328">Image source<a>
@@ -107,9 +132,13 @@ Source: https://twitter.com/rootpentesting/status/906068477856931844<br>
 </table>
 
 ### BBC
-![](./assets/bbc.png)
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/bbc.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://twitter.com/tinurock007/status/1188859704077799424">Image source<a>
@@ -121,9 +150,13 @@ Source: https://twitter.com/rootpentesting/status/906068477856931844<br>
 </table>
 
 ### GitHub
-![](./assets/github.png)
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/github.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="https://github.com/joernchen">Image source<a>
@@ -135,9 +168,13 @@ Source: https://twitter.com/rootpentesting/status/906068477856931844<br>
 </table>
 
 ### iFixit
-![](./assets/ifixit.png)
 
 <table>
+   <tr align="center">
+       <td colspan="2">
+           <img src="./assets/ifixit.png">
+       </td>
+   </tr>
    <tr>
       <td align="center">
       <a href="http://kaoticcreations.blogspot.com/2013/12/xmas-gifts-from-ifixitcom-for-bug-bounty.html">Image source<a>
