@@ -43,7 +43,7 @@
 <table>
    <tr align="center">
        <td colspan="2">
-           <img src="./assets/dutch_bank.png">
+           <img src="./assets/dutch_bank.png"><br>
            Notice: Its just a USB stick and not a 1000g gold nugget
        </td>
    </tr>
